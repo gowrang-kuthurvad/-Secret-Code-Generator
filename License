@@ -1,0 +1,17 @@
+
+---
+
+## 🌍 GitHub Upload Commands
+
+```bash
+mkdir secret-code-generator
+cd secret-code-generator
+nano generator.sh
+nano README.md
+
+git init
+git add .
+git commit -m "Initial commit - Secret Code Generator Bash Project"
+git branch -M main
+git remote add origin https://github.com/yourusername/secret-code-generator.git
+git push -u origin main
