@@ -16,6 +16,6 @@ A simple Bash script to generate secure random secret codes.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/secret-code-generator.git
+git clone https://github.com/gowrang-kuthurvad/secret-code-generator.git
 cd secret-code-generator
 chmod +x generator.sh
